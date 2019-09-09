@@ -1,0 +1,13 @@
+-- Plugin d'entraînement à l'UHC --
+
+Ce plugin a pour but de s'entraîner à la préparation du stuff en UHC.
+Le but est donc d'automatiser la génération de la map, des gamerules, etc... pour que ce soit le plus simple possible
+pour le(s) joueur(s). Il doivent juste utiliser la commande '/start' pour pouvoir commencer l'entraînement.
+Un compteur indique au(x) joueur(s) depuis combien de temps l'entraînement a commencé. C'est un bon moyen pour eux
+de leur donner du défi en essayant de battre des records de temps et donc toujours aller plus vite.
+
+Nombre de joueurs : Un ou plusieurs
+Commandes :
+    - '/start' pour lancer un entraînement
+Information à afficher :
+    - Temps passé depuis le début de l'entraînement (scoreboard)

@@ -1,0 +1,9 @@
+name: UHCTraining
+author: Feavy
+version: 1.0
+main: fr.feavy.uhcTraining.TrainingPlugin
+description: Plugin d'entrainement à l'UHC
+commands:
+  start:
+    description: Permet de lancer ou relancer l'entrainement.
+    usage: /start
